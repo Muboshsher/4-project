@@ -2,5 +2,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
+body{
+    height: 100vh;
+    background: linear-gradient(45deg, #ee82ee, dodgerblue);
+    display: grid;
+    place-content: center;
+    color: #fff;
+}
+
+h1{
+    font-size: 10vw;
+}
